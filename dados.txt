@@ -1,12 +1,8 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
-
-Obrigado!!!
-
-
+-Primeiro Nome: Camila L.
+-Profissão: autonomo
+-Cidade: Feliz - RS
+-O que faz nas horas vaga: estudo
+-Feedback sobre o curso Qualidade de Software: Até o momento estou gostando, mas sinto que os primeiros módulos tem exercícios que não são muito utilizados na prática da profissão.
+-Feedback sobre a plataforma de estudo da EBAC: Boa e intuitiva.
